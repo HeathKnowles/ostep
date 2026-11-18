@@ -1,0 +1,11 @@
+# Ignore all files without an extension
+*
+!*.*
+
+# Do not ignore directories
+!*/
+
+# Project Files
+!Makefile
+!README
+!LICENSE
